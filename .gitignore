@@ -1,0 +1,15 @@
+/.metadata/
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
